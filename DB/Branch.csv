@@ -1,0 +1,112 @@
+﻿BrandId,Name,Desc,Phone,OpenHour,OpenTime,CloseHour,CloseTime,Address,AddressDesc,WardId,DistrictId,CityId
+1,KFC LOTTE GÒ VẤP,KFC LOTTE GÒ VẤP,028 3516 6605,10,0,22,0,"Lô 1F17, tầng 1 , Lotte mart Gò Vấp, số 18, Phan Văn Trị","Lô 1F17, tầng 1 , Lotte mart Gò Vấp, số 18, Phan Văn Trị, Phường 10, Quận Gò Vấp, TP.HCM",199,15,1
+1,KFC EMART GÒ VẤP,KFC EMART GÒ VẤP,1900 6886,10,0,22,0,366 Phan Văn Trị,"366 Phan Văn Trị,Phường 5, Quận Gò Vấp",194,15,1
+1,KFC LÊ VĂN VIỆT,KFC LÊ VĂN VIỆT,1900 6886,10,0,22,0,193 Lê Văn Việt,"193 Lê Văn Việt, Phường Hiệp Phú, Quận 9, TPHCM",106,9,1
+2,Lotteria Parkson Lê Thánh Tôn,Lotteria Parkson Lê Thánh Tôn,038 277 584,7,0,23,0,35 Bis – 45 Lê Thánh Tôn,"35 Bis – 45 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, TP.HCM",1,1,1
+2,Lotteria Lý Chính Thắng,Lotteria Lý Chính Thắng,035 260 585,7,0,23,0,250B Lý Chính Thắng,"250B Lý Chính Thắng, Phường 9, Quận 3",30,3,1
+2,Lotteria Trần Hưng Đạo,Lotteria Trần Hưng Đạo,038 385 362,7,0,23,0,95A Trần Hưng Đạo,"95A Trần Hưng Đạo, Phường Cầu Ông Lãnh, Quận 1, TP HCM",4,1,1
+3,Domino's Pizaa - Nguyễn Tri Phương,Domino's Pizaa - Nguyễn Tri Phương,1900 6099,10,0,22,0,313 NGUYEN TRI PHUONG,"313 NGUYEN TRI PHUONG, Phường 5, Quận 10",123,10,1
+3,Domino's Pizaa - Đinh Bộ Lĩnh,Domino's Pizaa - Đinh Bộ Lĩnh,1900 6099,10,0,22,0,138 Dinh Bo Linh,"138 Dinh Bo Linh Phường 26, Quận Bình Thạnh",188,14,1
+4,Bánh Mì PewPew - Út Tịch,CN1,093 933 82 79,6,0,23,0,66 Út Tịch,"66 Út Tịch, Phường 4,  Quận Tân Bình, TP. HCM",225,17,1
+4,Bánh Mì PewPew - Đường D5,CN2,093 933 82 79,6,0,23,0,84 đường D5,"84 đường D5, Phường 25, Bình Thạnh, Hồ Chí Minh",187,14,1
+48,Amigo,,028 3824 1248,11,0,22,0,55-57 Nguyễn Huệ,"55-57 Nguyễn Huệ, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+47,Vietnam House,,028 3822 2226,11,30,23,0,93-95-97 Đồng Khởi,"93-95-97 Đồng Khởi, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+46,Long Triều,,028 6268 3999,11,0,23,0,"The Reverie Saigon (level 4), 22-36 Nguyen Hue Boulevard","The Reverie Saigon (level 4), 22-36 Nguyen Hue Boulevard, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+46,The Long,,028 3823 6688,10,0,0,0,22-36 Nguyễn Huệ,"22-36 Nguyễn Huệ, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+44,Noodle Noodle,,028 3827 6868,7,30,22,0,20 Nguyễn Huệ,"20 Nguyễn Huệ, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+10,Le Café,,028 3888 8866,7,0,22,0,192 Nam Kỳ Khởi Nghĩa,"192 Nam Kỳ Khởi Nghĩa, Phường 6, Quận 3, Thành phố Hồ Chí Minh ",27,3,1
+42,Ngan Dinh,,028 3982 6688,10,0,22,30,54 - 56 Đồng Khởi,"54 - 56 Đồng Khởi, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+41,Kissho,,028 3823 2223,11,0,23,0,14 Nguyen Hue,"14 Nguyen Hue, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+40,Dunkin Donut Hùng Vương,,083 833 3540,8,0,22,30,158 Hùng Vương,"158 Hùng Vương, Phường 12, Quận 10, TP.HCM",130,10,1
+40,Dunkin Donut Nguyễn Đức Cảnh,,08 54 124 785,8,0,22,30,59 Nguyễn Đức Cảnh,"59 Nguyễn Đức Cảnh. Phường Tân Phong, Quận 7, TP.HCM",85,7,1
+39,Starbucks Tan Son Nhat Airport,,028 3620 9020,5,30,22,0,"Tầng trệt, Khu thương mại Nhà Giữ Xe Ga Quốc nội Cảng hàng không Quốc tế Tân Sơn Nhất, 45 Trường Sơn","Tầng trệt, Khu thương mại Nhà Giữ Xe Ga Quốc nội Cảng hàng không Quốc tế Tân Sơn Nhất, 45 Trường Sơn, Phường 2, Quận Tân Bình, Thành phố Hồ Chí Minh",223,17,1
+39,Starbucks Rex,,028 3824 4668,7,0,22,0,141 Nguyễn Huệ,"141 Nguyễn Huệ, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+39,Starbucks New World,,028 3823 7952,6,30,23,0,"New World Hotel, 76 Nguyễn Thị Nghĩa","New World Hotel, 76 Nguyễn Thị Nghĩa, Phường Bến Thành , Quận 1, Thành phố Hồ Chí Minh",2,1,1
+39,Starbucks Nguyen Van Troi,,028 3842 2171,6,30,22,0,66 Nguyễn Văn Trỗi,"66 Nguyễn Văn Trỗi, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh",213,16,1
+39,Starbucks IBIS,,028 3848 6030,7,0,21,0,2 Hồng Hà,"2 Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",223,17,1
+39,Starbucks Nguyen Hue,,028 3821 0105,7,0,22,30,99 Nguyễn Huệ,"99 Nguyễn Huệ, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+39,Starbucks mPlaza Saigon,,028 3823 4990,7,0,22,0,"39 Lê Duẩn, Quận 1 Mặt, Hai Bà Trưng","39 Lê Duẩn, Quận 1 Mặt, Hai Bà Trưng, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+39,Starbucks Thao Dien,,028 3744 2040,6,30,21,30,21 Đường Thảo Điền,"21 Đường Thảo Điền, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",20,2,1
+39,Starbucks CMT8,,028 3929 1221,7,0,21,30,241Bis Cách Mạng Tháng Tám,"241Bis Cách Mạng Tháng Tám, Phường 4, Quận 3, Thành phố Hồ Chí Minh",25,3,1
+39,Starbucks Reserve Bar Han Thuyen,,028 3823 9237,7,0,22,0,13 Hàn Thuyên,"13 Hàn Thuyên, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+39,Starbucks Phan Xich Long,,028 3517 6461,7,0,22,0,216 Phan Xích Long,"216 Phan Xích Long, Phường 7, Phú Nhuận, Thành phố Hồ Chí Minh",212,16,1
+39,Starbucks Leman,,028 3930 1092,7,0,21,30,117 Nguyễn Đình Chiểu,"117 Nguyễn Đình Chiểu, Phường 6, Quận 3, Thành phố Hồ Chí Minh",27,3,1
+39,Starbucks Lakai,,028 3924 1251,7,0,22,30,"Lakai Apartments, 98-126 Nguyễn Tri Phương","Lakai Apartments, 98-126 Nguyễn Tri Phương, Phường 7, Quận 5, Thành phố Hồ Chí Minh",57,5,1
+39,Starbucks Crescent Strip,,028 6680 6191,7,0,22,0,"CR1-02, Crescent Residence 1, 103 Ton Dat Tien","CR1-02, Crescent Residence 1, 103 Ton Dat Tien, Phường Tân Phú, Quận 7, Block A, Phu My Hung, Ho Chi Minh city, Thành phố Hồ Chí Minh",86,7,1
+39,Starbucks Pearl Plaza,,028 3512 0585,7,0,21,30,561 Điện Biên Phủ,"561 Điện Biên Phủ, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh",187,14,1
+39,Starbucks Dong Du,,028 3824 7977,7,0,22,0,38 Đông Du,"38 Đông Du, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+39,Starbucks Lotte Pico,,028 3620 1392,8,0,21,30,"PICO PLAZA, 20 Cộng Hòa","PICO PLAZA, 20 Cộng Hòa, Phường 12, Quận Tân Bình, Thành phố Hồ Chí Minh",233,17,1
+39,Starbucks Gateway,,028 3636 9894,7,0,21,0,"Gateway, 177 Xa lộ Hà Nội, Khu phố 1","Gateway, 177 Xa lộ Hà Nội, Khu phố 1, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",20,2,1
+39,Starbucks Vincom Dong Khoi,,028 3939 0058,8,30,22,0,72 Lê Thánh Tôn,"72 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+39,Starbucks Emart,,028 3588 0146,7,30,22,0,"Khu siêu thị Emart, 366 Đ. Phan Văn Trị","Khu siêu thị Emart, 366 Đ. Phan Văn Trị, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh",194,15,1
+38,The Coffee House - Lê Văn Sỹ,,028 7108 7088,7,0,22,30,281 Đ. Lê Văn Sỹ,"281 Đ. Lê Văn Sỹ, Phường 1, Tân Bình, Thành phố Hồ Chí Minh",222,17,1
+38,The Coffee House - Đống Đa,,028 7303 9079,7,0,22,30,2 Đống Đa,"2 Đống Đa, Phường 2, Tân Bình, Thành phố Hồ Chí Minh ",223,17,1
+38,The Coffee House - Thăng Long,,028 7303 9079,7,0,22,30,51 Thăng Long,"51 Thăng Long, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",225,17,1
+38,The Coffee House - Nguyễn Kiệm,,028 7303 9079,7,0,22,30,371 Nguyễn Kiệm,"371 Nguyễn Kiệm, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh",192,15,1
+38,The Coffee House - Tran Huy Lieu,,028 7303 9079,7,0,22,30,185 Trần Huy Liệu,"185 Trần Huy Liệu, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh",213,16,1
+38,The Coffee House - Hồng Hà,,028 7303 9079,7,0,22,30,18 Hồng Hà,"18 Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",223,17,1
+38,The Coffee House - Út Tịch,,0339 923 215,7,0,22,30,17B Út Tịch,"17B Út Tịch, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",225,17,1
+38,The Coffee House - Lê Trung Nghĩa,,028 7303 9079,7,0,22,30,51 Lê Trung Nghĩa,"51 Lê Trung Nghĩa, Phường 12, Tân Bình, Thành phố Hồ Chí Minh",233,17,1
+38,The Coffee House - Huỳnh Văn Bánh,,028 7303 9079,7,0,22,30,68 Huỳnh Văn Bánh,"68 Huỳnh Văn Bánh, Phường 15, Phú Nhuận, Thành phố Hồ Chí Minh",220,16,1
+38,The Coffee House - Trần Quốc Thảo,,028 7303 9079,7,0,22,30,183F Trần Quốc Thảo,"183F Trần Quốc Thảo, Phường 9, Quận 3, Thành phố Hồ Chí Minh",30,3,1
+38,The Coffee House Signature,,028 7303 9079,7,0,22,30,19B Phạm Ngọc Thạch,"19B Phạm Ngọc Thạch, Phường 6, Quận 3, Thành phố Hồ Chí Minh",27,3,1
+38,The Coffee House - Trần Quang Khải,,028 7108 7088,7,0,22,30,180 Trần Quang Khải,"180 Trần Quang Khải, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh",10,1,1
+37,Phuc Long Coffee & Tea - Cộng Hòa CN1,,028 3811 5555,7,0,22,30,1B Cộng Hòa,"1B Cộng Hòa, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",225,17,1
+37,Phuc Long Coffee & Tea - Phổ Quang,,028 3990 3000,7,0,22,30,119C Phổ Quang,"119C Phổ Quang, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh",214,16,1
+37,Phuc Long Coffee & Tea - Nguyễn Văn Trỗi,,028 6275 7663,7,0,22,30,106 Nguyễn Văn Trỗi,"106 Nguyễn Văn Trỗi, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh",213,16,1
+37,Phuc Long Coffee & Tea - Trường Sơn,,,7,0,22,30,60A Trường Sơn,"60A Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",223,17,1
+37,Phuc Long Coffee & Tea - Cộng Hòa CN2,,028 3811 3000,7,0,22,30,18E Cộng Hòa,"18E Cộng Hòa, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",225,17,1
+37,Phuc Long Coffee & Tea - Trường Chinh,,028 3813 3333,7,0,22,30,493 Trường Chinh,"493 Trường Chinh, Phường 14, Tân Bình, Thành phố Hồ Chí Minh",235,17,1
+37,Phuc Long Coffee & Tea - Lê Văn Sỹ,,028 3931 1048,7,0,22,30,350 Lê Văn Sỹ,"350 Lê Văn Sỹ, Phường 14, Quận 3, Thành phố Hồ Chí Minh",35,3,1
+37,Phuc Long Coffee & Tea - Nguyễn Đình Chiểu,,028 3930 3333,7,0,22,30,117 Nguyễn Đình Chiểu,"117 Nguyễn Đình Chiểu, Phường 6, Quận 3, Thành phố Hồ Chí Minh",27,3,1
+37,Phuc Long Coffee & Tea - Phạm Văn Hai,,093 784 83 78,7,0,22,30,9 Phạm Văn Hai,"9 Phạm Văn Hai, Phường 1, Tân Bình, Thành phố Hồ Chí Minh",222,17,1
+36,Uraetei - Cộng Hòa,,1900 633302,11,0,22,0,117A Cộng Hòa,"117A Cộng Hòa, Phường 12, Tân Bình, Thành phố Hồ Chí Minh",233,17,1
+36,Uraetei - Trần Quốc Thảo,,1901 633302,11,0,22,0,125A Trần Quốc Thảo,"125A Trần Quốc Thảo, Phường 7, Quận 3, Thành phố Hồ Chí Minh",28,3,1
+36,Uraetei - NKKN,,028 6671 8777,11,0,22,0,"67-69-71 Nam Ky Khoi Nghia, Ward, St","67-69-71 Nam Ky Khoi Nghia, Ward, St, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",2,1,1
+36,Uraetei - Nguyễn Trãi,,1903 633302,11,0,22,0,967-969 Đ. Nguyễn Trãi,"967-969 Đ. Nguyễn Trãi, Phường 14, Quận 5, Thành phố Hồ Chí Minh",64,5,1
+36,Uraetei - Trần Hưng Đạo,,1904 633302,11,0,22,0,545-547 Đ. Trần Hưng Đạo,"545-547 Đ. Trần Hưng Đạo, Phường Cầu Kho, Quận 1, Thành phố Hồ Chí Minh",3,1,1
+36,Uraetei - Nguyễn Hồng Đào,,1905 633302,11,0,22,0,168 - 170 Đường Nguyễn Hồng Đào,"168 - 170 Đường Nguyễn Hồng Đào, Phường 14, Tân Bình, Thành phố Hồ Chí Minh",235,17,1
+36,Uraetei - 3/2,,1906 633302,11,0,22,0,430-434 Đường 3 Tháng 2,"430-434 Đường 3 Tháng 2, Phường 12, Quận 10, Thành phố Hồ Chí Minh",130,10,1
+36,Uraetei - Thảo Điền,,028 6272 6373,11,0,22,0,4 Đường Thảo Điền,"4 Đường Thảo Điền, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",20,2,1
+36,Uraetei - Thái Văn Lung,,1908 633302,11,0,22,0,8A/9D2 Thái Văn Lung,"8A/9D2 Thái Văn Lung, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+35,TOKYO Deli - Trường Sơn,,028 3547 1155,11,0,22,0,4 Trường Sơn,"4 Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",223,17,1
+35,TOKYO Deli - Phan Xích Long,,028 3517 2777,11,0,22,0,"242 - 244 Phan Xích Long, phường 1, Quận Phú Nhuận","242 - 244 Phan Xích Long, phường 1, Quận Phú Nhuận, Phường 7, Phú Nhuận, Thành phố Hồ Chí Minh",207,16,1
+35,TOKYO Deli - Điện Biên Phủ,,028 3827 7755,11,0,22,0,187 Điện Biên Phủ,"187 Điện Biên Phủ, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh",6,1,1
+35,TOKYO Deli - Phan Văn Trị,,028 7108 9799,11,0,22,0,366A3 Đ. Phan Văn Trị,"366A3 Đ. Phan Văn Trị, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh",194,15,1
+35,TOKYO Deli - Trần Hưng Đạo,,028 3837 2277,11,0,22,0,120Bis Đ. Trần Hưng Đạo,"120Bis Đ. Trần Hưng Đạo, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh",9,1,1
+35,TOKYO Deli - 3 /2,,028 7109 9197,11,0,22,0,386 - 388 Đường 3 Tháng 2,"386 - 388 Đường 3 Tháng 2, Phường 12, Quận 10, Thành phố Hồ Chí Minh",130,10,1
+35,TOKYO Deli - Lê Quốc Hưng,,028 7105 2789,11,0,22,0,"26 C-D-F, Lê Quốc Hưng","26 C-D-F, Lê Quốc Hưng, Phường 12, Quận 4, Thành phố Hồ Chí Minh ",45,4,1
+35,TOKYO Deli - Nguyễn Thị Thập,,028 7107 8799,11,0,22,0,"31-33 Khu Him Lam Khu Him Lam, Nguyễn Thị Thập","31-33 Khu Him Lam Khu Him Lam, Nguyễn Thị Thập, Phường Tân Hưng, Quận 7, Thành phố Hồ Chí Minh",83,7,1
+35,TOKYO Deli - Lê Đại Hành,,028 3962 6688,11,0,22,0,184 Lê Đại Hành,"184 Lê Đại Hành, Phường 15, Quận 11, Thành phố Hồ Chí Minh",148,11,1
+35,TOKYO Deli - Song Hành,,028 6259 3737,11,0,22,0,"34 Song Hành, kp5","34 Song Hành, kp5, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",20,2,1
+35,TOKYO Deli - Nguyễn Đức Cảnh,,028 5410 1166,11,0,22,0,107 Nguyễn Đức Cảnh,"107 Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, Thành phố Hồ Chí Minh",85,7,1
+34,THE SUSHI BAR 4-Saigon Court,,028 3930 1937,11,0,21,0,"2 Tòa nhà Saigon Court, 149 Nguyễn Đình Chiểu","2 Tòa nhà Saigon Court, 149 Nguyễn Đình Chiểu, Phường 6, Quận 3, Thành phố Hồ Chí Minh",27,3,1
+33,Shamoji Robata Yaki,,028 3636 8688,10,30,2,0,8 Đồng Khởi,"8 Đồng Khởi, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+32,Yen Premium,,091 999 84 88,11,0,23,0,123 Bà Huyện Thanh Quan,"123 Bà Huyện Thanh Quan, Phường 9, Quận 3, Thành phố Hồ Chí Minh",30,3,1
+31,My life coffee - Lê Duẩn,,1900 066890,8,0,22,0,2b Lê Duẩn,"2b Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+31,My life coffee - Trương Định,,,7,0,21,45,22A Trương Định,"22A Trương Định, Phường 6, Quận 3, Thành phố Hồ Chí Minh",27,3,1
+31,My life coffee - Alexandre de Rhodes,,028 3821 2044,7,0,23,0,4 Alexandre de Rhodes,"4 Alexandre de Rhodes, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+30,Yen Sushi Sake - Lê Quý Đôn,,028 3933 0167,10,30,22,0,15 Lê Quý Đôn,"15 Lê Quý Đôn, Phường 6, Quận 3, Thành phố Hồ Chí Minh",27,3,1
+30,Yen Sushi Sake - NKKN,,028 3821 8586,10,30,22,0,92 Nam Kỳ Khởi Nghĩa,"92 Nam Kỳ Khởi Nghĩa, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+30,Yen Sushi Sake - Hai Bà Trưng,,1900 066890,10,30,22,0,151e Hai Bà Trưng,"151e Hai Bà Trưng, Phường 6, Quận 3, Thành phố Hồ Chí Minh",27,3,1
+30,Yen Sushi Sake  - Đồng Khởi,,028 3636 8688,10,30,22,0,8 Đồng Khởi,"8 Đồng Khởi, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+30,Yen Sushi Sake - Nguyễn Đức Cảnh,,028 5412 5316,10,30,22,0,185 Nguyễn Đức Cảnh,"185 Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, Thành phố Hồ Chí Minh",85,7,1
+29,Popeyes - Cộng Hòa,,028 3948 3238,10,0,22,0,15-17 Cộng Hòa,"15-17 Cộng Hòa, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",225,17,1
+29,Popeyes - Trung Luong Expy,,090 936 38 55,0,0,0,0,Trung Luong Expy,"Trung Luong Expy, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",223,17,1
+29,Popeyes - Nguyễn Bỉnh Khiêm,,028 3820 0598,10,0,22,0,13 Nguyễn Bỉnh Khiêm,"13 Nguyễn Bỉnh Khiêm, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh",6,1,1
+28,MK Suki - Le Thanh Ton CN1,,028 6670 0909,10,0,22,0,"B3 Floor, Vincom Center B, 72, Le Thanh Ton Street","B3 Floor, Vincom Center B, 72, Le Thanh Ton Street, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+28,MK Suki - Nguyễn Du,,028 6292 1079,11,0,22,0,82 Nguyễn Du,"82 Nguyễn Du, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+28,MK Suki - Lê Thánh Tôn CN2,,028 3993 9789,11,0,22,0,72 Lê Thánh Tôn,"72 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",1,1,1
+27,CARL'S Jr,,028 3948 3491,10,0,22,0,138A Trường Chinh,"138A Trường Chinh, Phường 12, Tân Bình, Thành phố Hồ Chí Minh",233,17,1
+26,Texas Chicken - Hoàng Văn Thụ,,028 6265 3586,10,0,22,0,392 Hoàng Văn Thụ,"392 Hoàng Văn Thụ, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",225,17,1
+26,Texas Chicken - Phan Xích Long,,028 3517 1239,10,0,22,0,276 Phan Xích Long,"276 Phan Xích Long, Phường 7, Phú Nhuận, Thành phố Hồ Chí Minh",212,16,1
+26,Texas Chicken - Sư Vạn Hạnh,,028 6291 1060,10,0,22,0,463 Sư Vạn Hạnh,"463 Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh",130,10,1
+25,Shogun,,028 3520 0018,10,0,22,0,13 Lê Quý Đôn,"13 Lê Quý Đôn, Phường 6, Quận 3, Thành phố Hồ Chí Minh",27,3,1
+24,Gogi House - Trường Sơn CN1,,028 7300 9191,10,0,22,0,14 Trường Sơn,"14 Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",223,17,1
+24,Gogi House - Trường Sơn CN2,,028 7300 2145,10,0,22,0,"Tan Son Nhat International Airport, Tầng Hầm - Khu vực Thương mại - nhà xe - Ga Quốc Nội, 45 Trường Sơn","Tan Son Nhat International Airport, Tầng Hầm - Khu vực Thương mại - nhà xe - Ga Quốc Nội, 45 Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",223,17,1
+24,Gogi House - Lê Văn Sỹ,,028 7300 0614,10,0,22,0,256 Đ. Lê Văn Sỹ,"256 Đ. Lê Văn Sỹ, Phường 14, Quận 3, Thành phố Hồ Chí Minh",35,3,1
+23,Ashima - Nguyễn Đình Chiểu,,028 7300 1314,10,0,22,0,35A Nguyễn Đình Chiểu,"35A Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh",6,1,1
+23,Ashima - Tú Xương,,028 7300 1316,10,0,22,0,11 Tú Xương,"11 Tú Xương, Phường 7, Quận 3, Thành phố Hồ Chí Minh",28,3,1
+22,Hutong - Phan Xích Long,,028 7300 2048,10,0,22,0,171 Phan Xích Long,"171 Phan Xích Long, Phường 2, Phú Nhuận, Thành phố Hồ Chí Minh",208,16,1
+22,Hutong - Quang Trung,,028 7300 7389,10,0,22,0,Số 1 Quang Trung,"Số 1 Quang Trung, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh",192,15,1
+22,Hutong - Lê Quý Đôn,,028 7300 7406,10,0,22,0,6B Lê Quý Đôn,"6B Lê Quý Đôn, Phường 6, Quận 3, Thành phố Hồ Chí Minh",27,3,1
